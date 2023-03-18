@@ -1,0 +1,6 @@
+name: KlynetAPI
+version: '${project.version}'
+main: com.klynet.klynetapi.KlynetAPI
+api-version: 1.19
+authors: [ Klyser8 ]
+description: API used by my paper plugins. Feel free to use any code you find on here, though i'd appreciate it if you credited me if anything here helps me.
